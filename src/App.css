@@ -2,8 +2,13 @@
   text-align: center;
 }
 
+h1 {
+  color: #00c2c2;
+  text-align: center;
+}
+
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
