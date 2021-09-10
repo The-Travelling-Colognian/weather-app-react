@@ -2,10 +2,12 @@
   font-size: 14px;
 }
 
-.github {
+.github,
+.netlify {
   color: #00c2c2;
 }
 
-.github:hover {
+.github:hover,
+netlify:hover {
   color: #000091;
 }
