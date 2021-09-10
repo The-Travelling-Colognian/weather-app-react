@@ -21,15 +21,14 @@ export default function Footer() {
       >
         Vanessa Schade
       </a>{" "}
-      and hosted on{" "}
+      and{" "}
       <a
         href="https://suspicious-mclean-a6ec46.netlify.app/"
         target="_blank"
         rel="noreferrer"
         className="netlify"
       >
-        {" "}
-        Netlify
+        hosted on Netlify
       </a>
     </small>
   );
